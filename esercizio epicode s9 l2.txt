@@ -1,0 +1,19 @@
+esercizio epicode s9 l2
+
+Nell’esempio pratico di oggi, ipotizziamo di essere stati assunti per valutare quantitativamente l’impatto di un determinato disastro su un asset di una compagnia. 
+
+Con il supporto dei dati presenti nelle tabelle che seguono, calcolare la perdita annuale che subirebbe la compagnia nel caso di:
+
+Inondazione sull’asset "edificio secondario" 
+
+Terremoto sull’asset "datacenter" 
+
+Incendio sull’asset "edificio primario"
+
+Svolgimento
+
+Inondazione edificio secondario=  SLE = AV x EF = 150000*0,40= 60000 // ALE = SLE x ARO = 60000*0,02= 1200 euro al mese per 50 anni
+
+Terremoto sull'asset datacenter= SLE = AV x EF = 100000*0,95= 95000  // ALE = SLE x ARO = 95000*0,033= 2850 euro al mese per 30 anni
+
+Incendio sull'asset edificio primario= SLE = AV x EF = 350000*0,60= 210000 // ALE = SLE x ARO = 210000*0,05= 10500 euro al mese per 20 anni
